@@ -1,1 +1,2 @@
-# Microservices using graphql and grpc
+# Microservices using cqrs pattern
+
